@@ -1,10 +1,10 @@
 {
-  "name": "Metaplex NFT Marketplace",
-  "short_name": "Metaplex NFT Marketplace",
+  "name": "Agatha's Collection of Fine Art",
+  "short_name": "Agatha's",
   "display": "standalone",
   "start_url": "./",
-  "theme_color": "#002140",
-  "background_color": "#001529",
+  "theme_color": "#3F8067",
+  "background_color": "#3F8067",
   "icons": [
     {
       "src": "/favicon-16x16.png",
